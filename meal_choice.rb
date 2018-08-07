@@ -9,7 +9,7 @@ def breakfast (food="frosted flake")
   "any time, is the right time for #{food}!"
 end 
 
-breakfast (cereal)
+breakfast ("cereal")
 
 
 def lunch (food="grilled cheese")
